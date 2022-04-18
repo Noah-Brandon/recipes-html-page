@@ -1,2 +1,2 @@
-# odin-recipes
+# Recipes-Html-Page
 Website filled with recipes
